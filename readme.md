@@ -41,7 +41,8 @@ Buat program yang meminta pengguna untuk memasukkan sebuah angka melalui prompt,
 - **Contoh Input:**
 - Masukkan Angka: 4
 - **Output yang diharapkan:**
-* * *
+
+```
 * * * * *
 * * * * *       
 * * * * *       
@@ -50,6 +51,7 @@ Buat program yang meminta pengguna untuk memasukkan sebuah angka melalui prompt,
 - **Contoh Input:**
 - Masukkan Angka: 3
 - **Output yang diharapkan:**
+
 ```
 * * *
 * * *
