@@ -9,8 +9,9 @@ Buat sebuah program yang meminta pengguna untuk memasukkan **nilai awal** dan **
   - Nilai Awal: 3
   - Nilai Akhir: 7
 - **Output yang diharapkan:**
+```
   - `3 4 5 6 7`
-
+```
 - **Instruksi:**
   - Gunakan **`for` loop** untuk menyelesaikan tugas ini.
   - Cetak angka berurutan dari **nilai awal** hingga **nilai akhir** di satu baris.
@@ -21,8 +22,9 @@ Buat sebuah program yang meminta pengguna untuk memasukkan **nilai awal** dan **
 Buat program yang menghasilkan pola angka dan huruf "x" secara bergantian. Untuk setiap angka ganjil, cetak angkanya. Untuk setiap angka genap, cetak "x".
 
 - **Output yang diharapkan:**
+```
 1 x 3 x 5 x 7 x 8
-
+```
 markdown
 Salin kode
 
@@ -39,7 +41,7 @@ Buat program yang meminta pengguna untuk memasukkan sebuah angka melalui prompt,
 - **Contoh Input:**
 - Masukkan Angka: 4
 - **Output yang diharapkan:**
-```
+* * *
 * * * * *
 * * * * *       
 * * * * *       
