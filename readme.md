@@ -1,3 +1,76 @@
+# Pengenalan Looping di JavaScript
+
+Looping atau perulangan adalah salah satu bagian paling penting dalam pemrograman. Dengan menggunakan looping, kita dapat melakukan sesuatu berulang-ulang tanpa harus menulis kode yang sama berulang-ulang.
+
+## Macam-macam Looping di JavaScript
+
+Ada beberapa macam looping di JavaScript, yaitu:
+
+### For Loop
+
+For loop adalah salah satu jenis looping yang paling umum digunakan. For loop memungkinkan kita untuk melakukan sesuatu berulang-ulang dengan menggunakan variabel yang dideklarasikan di dalam for loop.
+
+Contoh penggunaan for loop:
+```
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+```
+### For In Loop
+
+For in loop digunakan untuk mengulangi setiap properti yang ada di dalam objek.
+
+Contoh penggunaan for in loop:
+```
+const person = {
+    nama: 'John Doe',
+    umur: 25,
+    alamat: 'Jalan Jalan'
+};
+
+for (let key in person) {
+    console.log(key + ': ' + person[key]);
+}
+```
+### For Of Loop
+
+For of loop digunakan untuk mengulangi setiap item yang ada di dalam array.
+
+Contoh penggunaan for of loop:
+```
+const fruits = ['Apple', 'Banana', 'Orange'];
+
+for (let fruit of fruits) {
+    console.log(fruit);
+}
+```
+
+### While Loop
+
+While loop adalah salah satu jenis looping yang paling sederhana. While loop memungkinkan kita untuk melakukan sesuatu berulang-ulang selama kondisi yang diberikan terpenuhi.
+
+Contoh penggunaan while loop:
+```
+let i = 0;
+while (i < 5) {
+    console.log(i);
+    i++;
+}
+```
+
+### Do While Loop
+
+Do while loop mirip dengan while loop, tetapi do while loop akan melakukan sesuatu minimal sekali sebelum kondisi yang diberikan diperiksa.
+
+Contoh penggunaan do while loop:
+```
+let i = 0;
+do {
+    console.log(i);
+    i++;
+} while (i < 5);
+```
+
 # Tugas Pemrograman JavaScript: Looping (Perulangan)
 
 Selamat datang di tugas pemrograman JavaScript! Dalam tugas ini, kamu akan berlatih menggunakan **looping** atau **perulangan** untuk menyelesaikan beberapa soal di bawah ini. Setiap soal dirancang untuk mengasah logika dan pemahaman tentang perulangan dalam pemrograman.
