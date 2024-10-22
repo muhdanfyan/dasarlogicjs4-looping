@@ -140,7 +140,7 @@ Buat program yang meminta pengguna untuk memasukkan sebuah angka melalui prompt,
 Buat program yang mencetak angka dari 1 hingga jumlah yang dimasukkan oleh pengguna melalui prompt. Namun, jika angka tersebut:
 - Kelipatan 3, cetak `"Pondok"`.
 - Kelipatan 5, cetak `"Informatika"`.
-- Kelipatan 3 dan 5 sekaligus, cetak `"FizzBuzz"`.
+- Kelipatan 3 dan 5 sekaligus, cetak `"Pondok Informatika"`.
 
 - **Contoh Output:**
 - Jika pengguna memasukkan angka 15, hasil yang diharapkan:
